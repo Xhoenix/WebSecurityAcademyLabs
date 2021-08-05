@@ -30,7 +30,7 @@ So, it means we need to add a parameter called `filename` to access a particular
 ```
 &name=Dude&email=dude;ls+-al+>>+/var/www/images/file.txt;sleep+10;&subject=Just+a+cool+dude
 ```
-Refreshing the page we see the contents of directory.
+Refreshing the page we see the contents of the directory.
 
 ![image](https://user-images.githubusercontent.com/86168235/128372547-17c6eff7-ce30-432c-956e-2b7a91ae6140.png)
 
