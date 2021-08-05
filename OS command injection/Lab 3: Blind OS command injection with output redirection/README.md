@@ -21,7 +21,7 @@ So, it means we need to add a parameter called `filename` to access a particular
 
 ![image](https://user-images.githubusercontent.com/86168235/128371851-b4529350-9144-4885-8834-6c1442400bfb.png)
 
-**Note**:- Alternatively, you can either spider the host or try to load a product and intercept the request that tries to load an image and modify that url to load our exploit file. But, as during information gathering phase one of the first things I do is run a directory scanner I'll come across the **image** url(and thus the filename param) before I find any command injection.
+**Note**:- Alternatively, you can either spider the host or try to load a product and intercept the request that tries to load an image and modify that url to load our exploit file. But, as during information gathering phase one of the first things I do is run a directory scanner, I'll come across the **image** url(and thus the filename param) before I find any command injection.
 
 #### Optional
 
