@@ -1,4 +1,4 @@
-First run `gobuster` scan to determine the directory structure.
+First run a `gobuster` scan to determine the directory structure.
 
 ### Gobuster
 
