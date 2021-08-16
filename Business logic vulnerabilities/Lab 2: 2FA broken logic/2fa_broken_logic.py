@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# from functools import partial
 
 import requests
 import multiprocessing as mp
